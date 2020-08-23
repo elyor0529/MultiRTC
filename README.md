@@ -1,4 +1,4 @@
-# MultiRTC / A demo application for [RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection)
+# MultiRTC / A demo application for [RTCMultiConnection](https://github.com/elyor0529/MultiRTC/RTCMultiConnection)
 
 This demo application runs similarly like Skype. However it isn't having contacts section.
 
@@ -13,7 +13,7 @@ Last point means, you can view or hear someone's shared camera without sharing y
 
 # Wanna Report a Bug?
 
-* https://github.com/muaz-khan/MultiRTC/issues
+* https://github.com/elyor0529/MultiRTC/issues
 
 MultiRTC Firebase: [![npm](https://img.shields.io/npm/v/multirtc-firebase.svg)](https://npmjs.org/package/multirtc-firebase) [![downloads](https://img.shields.io/npm/dm/multirtc-firebase.svg)](https://npmjs.org/package/multirtc-firebase)
 
@@ -21,9 +21,9 @@ MultiRTC WebSockets: [![npm](https://img.shields.io/npm/v/multirtc-websocket.svg
 
 MultiRTC Socketio: [![npm](https://img.shields.io/npm/v/multirtc.svg)](https://npmjs.org/package/multirtc) [![downloads](https://img.shields.io/npm/dm/multirtc.svg)](https://npmjs.org/package/multirtc)
 
-1. Source Code: https://github.com/muaz-khan/MultiRTC
+1. Source Code: https://github.com/elyor0529/MultiRTC
 2. Simpler Demo: https://www.webrtc-experiment.com/RTCMultiConnection/MultiRTC/
-3. RTCMultiConnection.js: https://github.com/muaz-khan/RTCMultiConnection
+3. RTCMultiConnection.js: https://github.com/elyor0529/MultiRTC/RTCMultiConnection
 
 # Gif Presentation
 
@@ -31,9 +31,9 @@ MultiRTC Socketio: [![npm](https://img.shields.io/npm/v/multirtc.svg)](https://n
 
 # Demos Sources
 
-1. [MultiRTC Firebase](https://github.com/muaz-khan/MultiRTC/tree/master/MultiRTC-firebase)
-2. [MultiRTC WebSocket](https://github.com/muaz-khan/MultiRTC/tree/master/MultiRTC-websocket)
-3. [MultiRTC Socketio](https://github.com/muaz-khan/MultiRTC/tree/master/MultiRTC-socketio)
+1. [MultiRTC Firebase](https://github.com/elyor0529/MultiRTC/tree/master/MultiRTC-firebase)
+2. [MultiRTC WebSocket](https://github.com/elyor0529/MultiRTC/tree/master/MultiRTC-websocket)
+3. [MultiRTC Socketio](https://github.com/elyor0529/MultiRTC/tree/master/MultiRTC-socketio)
 
 # NPM
 
@@ -74,4 +74,4 @@ It is an All-in-One solution for [RTCMultiConnection.js](http://www.RTCMultiConn
 
 # License
 
-[RTCMultiConnection.js](http://www.RTCMultiConnection.org/) WebRTC Library is released under [MIT licence](https://www.webrtc-experiment.com/licence/) . Copyright (c) [Muaz Khan](http://www.MuazKhan.com).
+[RTCMultiConnection.js](http://www.RTCMultiConnection.org/) WebRTC Library is released under [MIT licence](https://www.webrtc-experiment.com/licence/) 
